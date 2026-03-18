@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Me llamo Alessandra, tengo 25 años, soy estudiante de Ingenieria en informatica, me gusta el basquet
+
 <!--
 **aleleksandra19/aleleksandra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
